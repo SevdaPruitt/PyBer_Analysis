@@ -4,7 +4,7 @@ Overview of the analysis:
 As a new employee, I have received a project on creating visualizations related to rideshare data for PyBer. The goal is to help improve access to ride-sharing services and determine affordability for underserved neighborhoods. 
 
 Results: 
-Describe the differences in ride-sharing data among the different city types.
+
 Based on the 2019 data I have received on ride-sharing, there are three types (urban, suburban, and rural). 
 
 ![Fare_Summary.png](analysis/Fare_Summary.png)
